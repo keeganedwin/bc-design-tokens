@@ -7993,24 +7993,24 @@
       "input": {
         "gap": {
           "value": "4",
-          "type": "other"
+          "type": "spacing"
         },
         "padding": {
           "value": "8",
-          "type": "other"
+          "type": "spacing"
         },
         "borderRadius": {
           "value": "2",
-          "type": "other"
+          "type": "borderRadius"
         },
         "checkbox": {
           "size": {
             "value": "16",
-            "type": "other"
+            "type": "spacing"
           },
           "gap": {
             "value": "8",
-            "type": "other"
+            "type": "spacing"
           }
         }
       },
