@@ -8006,7 +8006,7 @@
         "checkbox": {
           "size": {
             "value": "16",
-            "type": "spacing"
+            "type": "sizing"
           },
           "gap": {
             "value": "8",
