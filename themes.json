@@ -9281,77 +9281,17 @@
         },
         "spacing": {
           "actions": {
-            "small": {
-              "padding-left": {
-                "value": "{space.200}",
-                "type": "spacing"
-              },
-              "padding-right": {
-                "value": "{space.200}",
-                "type": "spacing"
-              },
-              "padding-top": {
-                "value": "{space.100}",
-                "type": "spacing"
-              },
-              "padding-bottom": {
-                "value": "{space.100}",
-                "type": "spacing"
-              }
+            "xs": {
+              "value": "global.theme.spacing.4",
+              "type": "spacing"
             },
-            "medium": {
-              "padding-left": {
-                "value": "{space.200}",
-                "type": "spacing"
-              },
-              "padding-right": {
-                "value": "{space.200}",
-                "type": "spacing"
-              },
-              "padding-top": {
-                "value": "{space.150}",
-                "type": "spacing"
-              },
-              "padding-bottom": {
-                "value": "{space.150}",
-                "type": "spacing"
-              }
+            "sm": {
+              "value": "global.theme.spacing.8",
+              "type": "spacing"
             },
-            "large": {
-              "padding-left": {
-                "value": "{space.200}",
-                "type": "spacing"
-              },
-              "padding-right": {
-                "value": "{space.200}",
-                "type": "spacing"
-              },
-              "padding-top": {
-                "value": "{space.200}",
-                "type": "spacing"
-              },
-              "padding-bottom": {
-                "value": "{space.200}",
-                "type": "spacing"
-              }
-            },
-            "extra-large": {
-              "padding-left": {
-                "value": "{space.200}",
-                "type": "spacing"
-              },
-              "padding-right": {
-                "value": "{space.200}",
-                "type": "spacing"
-              },
-              "padding-top": {
-                "value": "{space.250}",
-                "type": "spacing"
-              },
-              "padding-bottom": {
-                "value": "{space.250}",
-                "type": "spacing"
-              }
+            "md": {
+              "value": "global.theme.spacing.16",
+              "type": "spacing"
             }
           },
           "inputs": {
@@ -9654,45 +9594,13 @@
           }
         },
         "font-weight": {
-          "inputs": {
-            "value": "{font-weight.regular}",
+          "normal": {
+            "value": "global.font-weight.normal",
             "type": "fontWeights"
           },
-          "actions": {
-            "value": "{font-weight.semiBold}",
+          "bold": {
+            "value": "global.font-weight.bold",
             "type": "fontWeights"
-          },
-          "status": {
-            "value": "{font-weight.regular}",
-            "type": "fontWeights"
-          },
-          "typography": {
-            "light": {
-              "value": "{font-weight.light}",
-              "type": "fontWeights"
-            },
-            "regular": {
-              "value": "{font-weight.regular}",
-              "type": "fontWeights"
-            },
-            "semibold": {
-              "value": "{font-weight.semiBold}",
-              "type": "fontWeights"
-            },
-            "bold": {
-              "value": "{font-weight.bold}",
-              "type": "fontWeights"
-            }
-          },
-          "feedback": {
-            "regular": {
-              "value": "{font-weight.regular}",
-              "type": "fontWeights"
-            },
-            "bold": {
-              "value": "{font-weight.bold}",
-              "type": "fontWeights"
-            }
           }
         },
         "border-radius": {
