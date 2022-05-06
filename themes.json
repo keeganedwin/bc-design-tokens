@@ -8548,7 +8548,7 @@
             "secondary": {
               "default": {
                 "border-color": {
-                  "value": "{theme.colors.gray.300}",
+                  "value": "{global.colors.gray.300}",
                   "type": "color"
                 },
                 "quiet-border-color": {
@@ -8556,7 +8556,7 @@
                   "type": "color"
                 },
                 "text-color": {
-                  "value": "{colors.gray.900}",
+                  "value": "{global.colors.gray.900}",
                   "type": "color"
                 },
                 "quiet-text-color": {
