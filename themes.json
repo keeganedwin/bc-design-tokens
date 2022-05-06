@@ -9067,20 +9067,12 @@
         },
         "font-size": {
           "actions": {
-            "s": {
-              "value": "{font-size.3}",
+            "xs": {
+              "value": "{global.font-size.xs}",
               "type": "fontSizes"
             },
-            "m": {
-              "value": "{font-size.4}",
-              "type": "fontSizes"
-            },
-            "l": {
-              "value": "{font-size.5}",
-              "type": "fontSizes"
-            },
-            "xl": {
-              "value": "{font-size.6}",
+            "sm": {
+              "value": "{global.font-size.sm}",
               "type": "fontSizes"
             }
           },
