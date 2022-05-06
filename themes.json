@@ -9558,38 +9558,12 @@
           }
         },
         "font-family": {
-          "inputs": {
-            "value": "{font-family.sans-serif}",
+          "sans": {
+            "value": "{global.font-family.sans}",
             "type": "fontFamilies"
           },
-          "actions": {
-            "value": "{font-family.sans-serif}",
-            "type": "fontFamilies"
-          },
-          "typography": {
-            "serif": {
-              "value": "{font-family.serif}",
-              "type": "fontFamilies"
-            },
-            "sans-serif": {
-              "value": "{font-family.sans-serif}",
-              "type": "fontFamilies"
-            },
-            "mono": {
-              "value": "{font-family.mono}",
-              "type": "fontFamilies"
-            }
-          },
-          "feedback": {
-            "value": "{font-family.sans-serif}",
-            "type": "fontFamilies"
-          },
-          "status": {
-            "value": "{font-family.sans-serif}",
-            "type": "fontFamilies"
-          },
-          "navigation": {
-            "value": "{font-family.sans-serif}",
+          "mono": {
+            "value": "{global.font-family.mono}",
             "type": "fontFamilies"
           }
         },
