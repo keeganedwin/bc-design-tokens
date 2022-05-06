@@ -8428,7 +8428,7 @@
             "primary": {
               "default": {
                 "border-color": {
-                  "value": "{semantic.primary.default}",
+                  "value": "{global.theme.colors.primary.500}",
                   "type": "color"
                 },
                 "quiet-border-color": {
@@ -8436,7 +8436,7 @@
                   "type": "color"
                 },
                 "text-color": {
-                  "value": "{semantic.primary.default}",
+                  "value": "{global.colors.white}",
                   "type": "color"
                 },
                 "quiet-text-color": {
@@ -8444,7 +8444,7 @@
                   "type": "color"
                 },
                 "background-color": {
-                  "value": "{theme.colors.primary.500}",
+                  "value": "{global.theme.colors.primary.500}",
                   "type": "color"
                 },
                 "quiet-background-color": {
