@@ -9281,16 +9281,12 @@
         }
       },
       "spacing": {
-        "actions": {
-          "xs": {
-            "value": "global.theme.spacing.4",
+        "padding": {
+          "vertical": {
+            "value": "{space.100}",
             "type": "spacing"
           },
-          "sm": {
-            "value": "global.theme.spacing.8",
-            "type": "spacing"
-          },
-          "md": {
+          "horizontal": {
             "value": "{space.200}",
             "type": "spacing"
           }
