@@ -9556,11 +9556,11 @@
       },
       "font-family": {
         "sans": {
-          "value": "{global.font-family.sans}",
+          "value": "{font-family.sans-serif}",
           "type": "fontFamilies"
         },
         "mono": {
-          "value": "{global.font-family.mono}",
+          "value": "{font-family.mono}",
           "type": "fontFamilies"
         }
       },
