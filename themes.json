@@ -9069,11 +9069,11 @@
       "font-size": {
         "actions": {
           "xs": {
-            "value": "{global.font-size.xs}",
+            "value": "{global.theme.font-size.xs}",
             "type": "fontSizes"
           },
           "sm": {
-            "value": "{global.font-size.sm}",
+            "value": "{font-size.2}",
             "type": "fontSizes"
           }
         },
@@ -9566,11 +9566,11 @@
       },
       "font-weight": {
         "normal": {
-          "value": "global.font-weight.normal",
+          "value": "{font-weight.regular}",
           "type": "fontWeights"
         },
         "bold": {
-          "value": "global.font-weight.bold",
+          "value": "{font-weight.bold}",
           "type": "fontWeights"
         }
       },
