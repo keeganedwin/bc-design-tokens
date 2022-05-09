@@ -9572,11 +9572,11 @@
       },
       "font-weight": {
         "normal": {
-          "value": "{font-weight.regular}",
+          "value": "{global.font-weight.normal}",
           "type": "fontWeights"
         },
         "bold": {
-          "value": "{font-weight.bold}",
+          "value": "{global.font-weight.bold}",
           "type": "fontWeights"
         }
       },
