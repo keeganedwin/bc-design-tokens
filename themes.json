@@ -9562,11 +9562,11 @@
       },
       "font-family": {
         "sans": {
-          "value": "{font-family.sans-serif}",
+          "value": "{global.font-family.sans}",
           "type": "fontFamilies"
         },
         "mono": {
-          "value": "{font-family.mono}",
+          "value": "{global.font-family.mono}",
           "type": "fontFamilies"
         }
       },
