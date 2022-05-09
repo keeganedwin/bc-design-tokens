@@ -9281,13 +9281,19 @@
         }
       },
       "spacing": {
-        "padding": {
-          "vertical": {
-            "value": "{space.100}",
-            "type": "spacing"
+        "actions": {
+          "padding": {
+            "vertical": {
+              "value": "{space.100}",
+              "type": "spacing"
+            },
+            "horizontal": {
+              "value": "{space.200}",
+              "type": "spacing"
+            }
           },
-          "horizontal": {
-            "value": "{space.200}",
+          "space-between": {
+            "value": "global.theme.item-spacing.xs",
             "type": "spacing"
           }
         },
