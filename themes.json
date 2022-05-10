@@ -8544,24 +8544,12 @@
                 "value": "{global.colors.gray.300}",
                 "type": "color"
               },
-              "quiet-border-color": {
-                "value": "{color.neutrals.transparent}",
-                "type": "color"
-              },
               "text-color": {
                 "value": "{global.colors.gray.900}",
                 "type": "color"
               },
-              "quiet-text-color": {
-                "value": "{semantic.secondary.default}",
-                "type": "color"
-              },
               "background-color": {
                 "value": "{global.colors.white}",
-                "type": "color"
-              },
-              "quiet-background-color": {
-                "value": "{color.neutrals.transparent}",
                 "type": "color"
               }
             },
