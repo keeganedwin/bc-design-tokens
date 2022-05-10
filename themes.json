@@ -8132,7 +8132,7 @@
       },
       "font-family": {
         "sans": {
-          "value": "Inter, sans-serif",
+          "value": "Inter",
           "type": "fontFamilies"
         },
         "mono": {
