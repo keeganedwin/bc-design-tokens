@@ -8276,6 +8276,10 @@
                 "value": "{global.colors.white}",
                 "type": "color"
               },
+              "icon-color": {
+                "value": "{global.colors.white}",
+                "type": "color"
+              },
               "background-color": {
                 "value": "{global.colors.red.500}",
                 "type": "color"
@@ -8428,6 +8432,10 @@
                 "value": "{global.colors.white}",
                 "type": "color"
               },
+              "icon-color": {
+                "value": "{global.colors.white}",
+                "type": "color"
+              },
               "background-color": {
                 "value": "{global.colors.primary.500}",
                 "type": "color"
@@ -8533,6 +8541,10 @@
                 "type": "color"
               },
               "text-color": {
+                "value": "{global.colors.gray.500}",
+                "type": "color"
+              },
+              "icon-color": {
                 "value": "{global.colors.gray.500}",
                 "type": "color"
               },
