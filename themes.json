@@ -8269,15 +8269,15 @@
           "negative": {
             "default": {
               "border-color": {
-                "value": "{semantic.error.fg}",
+                "value": "{global.colors.red.500}",
                 "type": "color"
               },
               "text-color": {
-                "value": "{semantic.error.fg}",
+                "value": "{global.colors.white}",
                 "type": "color"
               },
               "background-color": {
-                "value": "{colors.red.100}",
+                "value": "{global.colors.red.500}",
                 "type": "color"
               }
             },
