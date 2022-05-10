@@ -9172,14 +9172,6 @@
         }
       },
       "font-weight": {
-        "normal": {
-          "value": "{global.font-weight.normal}",
-          "type": "fontWeights"
-        },
-        "bold": {
-          "value": "{global.font-weight.bold}",
-          "type": "fontWeights"
-        },
         "actions": {
           "value": "Medium",
           "type": "fontWeights"
