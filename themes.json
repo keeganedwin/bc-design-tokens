@@ -7898,11 +7898,11 @@
           },
           "red": {
             "100": {
-              "value": "#f24822",
+              "value": "#fff5f5",
               "type": "color"
             },
             "500": {
-              "value": "#fff5f5",
+              "value": "#f24822",
               "type": "color"
             }
           },
