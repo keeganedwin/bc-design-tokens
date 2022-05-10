@@ -9584,7 +9584,7 @@
           "type": "fontWeights"
         },
         "actions": {
-          "value": "{global.font-weight.normal}",
+          "value": "medium",
           "type": "fontWeights"
         }
       },
