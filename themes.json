@@ -8545,7 +8545,7 @@
                 "type": "color"
               },
               "text-color": {
-                "value": "{global.colors.gray.900}",
+                "value": "{global.colors.gray.500}",
                 "type": "color"
               },
               "background-color": {
