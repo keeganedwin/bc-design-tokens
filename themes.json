@@ -8259,7 +8259,7 @@
           "negative": {
             "default": {
               "border-color": {
-                "value": "{global.colors.red.500}",
+                "value": "{global.theme.colors.red.500}",
                 "type": "color"
               },
               "text-color": {
@@ -8271,7 +8271,7 @@
                 "type": "color"
               },
               "background-color": {
-                "value": "{global.colors.red.500}",
+                "value": "{global.theme.colors.red.500}",
                 "type": "color"
               }
             },
