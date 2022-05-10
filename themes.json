@@ -8924,14 +8924,10 @@
           "type": "borderRadius"
         }
       },
-        "font-size": {
+      "font-size": {
         "actions": {
           "xs": {
             "value": "{global.font-size.xs}",
-            "type": "fontSizes"
-          },
-          "s": {
-            "value": "{global.font-size.sm}",
             "type": "fontSizes"
           }
         }
