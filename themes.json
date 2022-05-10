@@ -8433,7 +8433,7 @@
           "primary": {
             "default": {
               "border-color": {
-                "value": "{global.theme.colors.primary.500}",
+                "value": "{global.colors.primary.500}",
                 "type": "color"
               },
               "text-color": {
@@ -8441,7 +8441,7 @@
                 "type": "color"
               },
               "background-color": {
-                "value": "{global.theme.colors.primary.500}",
+                "value": "{global.colors.primary.500}",
                 "type": "color"
               }
             },
