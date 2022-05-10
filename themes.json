@@ -8149,52 +8149,6 @@
           "value": "hsla (0, 0%,100%, 1)",
           "type": "color"
         },
-        "gray": {
-          "50": {
-            "value": "hsla(0, 0%, 98%, 1)",
-            "type": "color"
-          },
-          "100": {
-            "value": "hsla(0, 0%, 96%, 1)",
-            "type": "color"
-          },
-          "200": {
-            "value": "hsla(0, 0%, 93%, 1)",
-            "type": "color"
-          },
-          "300": {
-            "value": "hsla(0, 0%, 88%, 1)",
-            "type": "color"
-          },
-          "400": {
-            "value": "hsla(0, 0%, 74%, 1)",
-            "type": "color"
-          },
-          "500": {
-            "value": "hsla(0, 0%, 62%, 1)",
-            "type": "color"
-          },
-          "600": {
-            "value": "hsla(0, 0%, 46%, 1)",
-            "type": "color"
-          },
-          "700": {
-            "value": "hsla(0, 0%, 38%, 1)",
-            "type": "color"
-          },
-          "800": {
-            "value": "hsla(0, 0%, 26%, 1)",
-            "type": "color"
-          },
-          "900": {
-            "value": "hsla(0, 0%, 13%, 1)",
-            "type": "color"
-          },
-          "950": {
-            "value": "hsla(0, 0%, 13%, 1)",
-            "type": "color"
-          }
-        },
         "blue": {
           "50": {
             "value": "hsla(204, 100%, 98%, 1)",
@@ -8365,11 +8319,11 @@
                 "type": "color"
               },
               "text-color": {
-                "value": "{global.theme.colors.gray.500}",
+                "value": "{global.colors.black.100}",
                 "type": "color"
               },
               "icon-color": {
-                "value": "{global.theme.colors.gray.500}",
+                "value": "{global.colors.black.100}",
                 "type": "color"
               },
               "background-color": {
@@ -9155,7 +9109,7 @@
       },
       "font-weight": {
         "actions": {
-          "value": "Medium",
+          "value": "{global.font-weight.medium}",
           "type": "fontWeights"
         }
       },
