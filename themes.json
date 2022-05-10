@@ -8124,6 +8124,10 @@
           "type": "fontWeights",
           "default": "300"
         },
+        "medium": {
+          "value": "medium",
+          "type": "fontWeights"
+        },
         "bold": {
           "value": "bold",
           "type": "fontWeights",
@@ -8432,24 +8436,12 @@
                 "value": "{global.theme.colors.primary.500}",
                 "type": "color"
               },
-              "quiet-border-color": {
-                "value": "{color.neutrals.transparent}",
-                "type": "color"
-              },
               "text-color": {
                 "value": "{global.colors.white}",
                 "type": "color"
               },
-              "quiet-text-color": {
-                "value": "{semantic.primary.default}",
-                "type": "color"
-              },
               "background-color": {
                 "value": "{global.theme.colors.primary.500}",
-                "type": "color"
-              },
-              "quiet-background-color": {
-                "value": "{color.neutrals.transparent}",
                 "type": "color"
               }
             },
