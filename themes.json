@@ -9073,7 +9073,7 @@
             "type": "fontSizes"
           },
           "sm": {
-            "value": "{{global.font-size.}",
+            "value": "{{global.font-size.sm}",
             "type": "fontSizes"
           }
         },
