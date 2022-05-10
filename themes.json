@@ -9582,6 +9582,10 @@
         "bold": {
           "value": "{global.font-weight.bold}",
           "type": "fontWeights"
+        },
+        "actions": {
+          "value": "{global.font-weight.normal}",
+          "type": "fontWeights"
         }
       },
       "border-radius": {
