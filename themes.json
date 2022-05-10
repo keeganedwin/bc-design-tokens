@@ -9073,7 +9073,7 @@
             "type": "fontSizes"
           },
           "sm": {
-            "value": "{{global.font-size.sm}",
+            "value": "{{global.font-size.}",
             "type": "fontSizes"
           }
         },
@@ -9567,6 +9567,10 @@
         },
         "mono": {
           "value": "{global.font-family.mono}",
+          "type": "fontFamilies"
+        },
+        "actions": {
+          "value": "{global.font-family.sans}",
           "type": "fontFamilies"
         }
       },
