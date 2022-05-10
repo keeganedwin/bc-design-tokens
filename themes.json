@@ -9146,7 +9146,7 @@
       },
       "font-weight": {
         "actions": {
-          "value": "{global.font-weight.Medium}",
+          "value": "{global.font-weight.medium}",
           "type": "fontWeights"
         }
       },
