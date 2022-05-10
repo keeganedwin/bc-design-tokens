@@ -9072,7 +9072,7 @@
             "value": "{global.font-size.xs}",
             "type": "fontSizes"
           },
-          "sm": {
+          "s": {
             "value": "{global.font-size.sm}",
             "type": "fontSizes"
           }
