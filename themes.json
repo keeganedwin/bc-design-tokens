@@ -8120,7 +8120,7 @@
       },
       "font-weight": {
         "medium": {
-          "value": "medium",
+          "value": "Medium",
           "type": "fontWeights"
         }
       },
@@ -9101,18 +9101,6 @@
           }
         }
       },
-      "font-family": {
-        "actions": {
-          "value": "{global.font-family.sans}",
-          "type": "fontFamilies"
-        }
-      },
-      "font-weight": {
-        "actions": {
-          "value": "{global.font-weight.medium}",
-          "type": "fontWeights"
-        }
-      },
       "border-radius": {
         "actions": {
             "value": "{global.borderRadius.sm}",
@@ -9148,6 +9136,18 @@
         "ui": {
           "value": "{border-radius.9}",
           "type": "borderRadius"
+        }
+      },
+      "font-family": {
+        "actions": {
+          "value": "{global.font-family.sans}",
+          "type": "fontFamilies"
+        }
+      },
+      "font-weight": {
+        "actions": {
+          "value": "{global.font-weight.Medium}",
+          "type": "fontWeights"
         }
       },
       "border-width": {
