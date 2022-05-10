@@ -8119,19 +8119,9 @@
         }
       },
       "font-weight": {
-        "normal": {
-          "value": "normal",
-          "type": "fontWeights",
-          "default": "300"
-        },
         "medium": {
           "value": "medium",
           "type": "fontWeights"
-        },
-        "bold": {
-          "value": "bold",
-          "type": "fontWeights",
-          "default": "500"
         }
       },
       "font-family": {
