@@ -8272,24 +8272,12 @@
                 "value": "{semantic.error.fg}",
                 "type": "color"
               },
-              "quiet-border-color": {
-                "value": "{color.neutrals.transparent}",
-                "type": "color"
-              },
               "text-color": {
-                "value": "{semantic.error.fg}",
-                "type": "color"
-              },
-              "quiet-text-color": {
                 "value": "{semantic.error.fg}",
                 "type": "color"
               },
               "background-color": {
                 "value": "{colors.red.100}",
-                "type": "color"
-              },
-              "quiet-background-color": {
-                "value": "{color.neutrals.transparent}",
                 "type": "color"
               }
             },
