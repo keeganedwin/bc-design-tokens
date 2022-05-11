@@ -8834,15 +8834,15 @@
             "value": "{global.borderRadius.sm}",
             "type": "borderRadius"
           }
-        },
-        "ui-card": {
+      },
+      "ui-card": {
           "value": "{border-radius.4}",
           "type": "borderRadius"
-        },
-        "ui": {
+      },
+      "ui": {
           "value": "{border-radius.9}",
           "type": "borderRadius"
-        }
+      }
       },
       "font-size": {
         "actions": {
@@ -8867,30 +8867,6 @@
       "border-width": {
         "actions": {
           "value": "{border-width.1}",
-          "type": "borderWidth"
-        },
-        "inputs": {
-          "value": "{border-width.1}",
-          "type": "borderWidth"
-        },
-        "status": {
-          "value": "{border-width.1}",
-          "type": "borderWidth"
-        },
-        "feedback": {
-          "value": "{border-width.1}",
-          "type": "borderWidth"
-        },
-        "navigation": {
-          "value": "{border-width.2}",
-          "type": "borderWidth"
-        },
-        "slider": {
-          "value": "{border-width.3}",
-          "type": "borderWidth"
-        },
-        "focus": {
-          "value": "{border-width.3}",
           "type": "borderWidth"
         }
       },
