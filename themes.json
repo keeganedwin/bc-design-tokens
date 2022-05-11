@@ -8319,6 +8319,10 @@
               "value": "{global.theme.colors.text.default}",
               "type": "color"
             }
+          },
+          "icon-color": {
+            "value": "{global.colors.white}",
+            "type": "borderWidth"
           }
         }
       },
@@ -8353,7 +8357,7 @@
         },
         "inputs": {
           "value": "{global.borderRadius.xs}",
-          "type": "color"
+          "type": "borderRadius"
         }
       },
       "font-size": {
