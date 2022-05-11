@@ -8835,28 +8835,6 @@
             "type": "borderRadius"
           }
         },
-        "inputs": {
-          "value": "{border-radius.4}",
-          "type": "borderRadius"
-        },
-        "status": {
-          "value": "{semantic.border.radius.round}",
-          "type": "borderRadius"
-        },
-        "feedback": {
-          "value": "{border-radius.4}",
-          "type": "borderRadius"
-        },
-        "navigation": {
-          "default": {
-            "value": "{semantic.border.radius.small}",
-            "type": "borderRadius"
-          },
-          "round": {
-            "value": "{semantic.border.radius.round}",
-            "type": "borderRadius"
-          }
-        },
         "ui-card": {
           "value": "{border-radius.4}",
           "type": "borderRadius"
