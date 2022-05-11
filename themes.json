@@ -8834,14 +8834,6 @@
             "value": "{global.borderRadius.sm}",
             "type": "borderRadius"
           }
-      },
-      "ui-card": {
-          "value": "{border-radius.4}",
-          "type": "borderRadius"
-      },
-      "ui": {
-          "value": "{border-radius.9}",
-          "type": "borderRadius"
       }
       },
       "font-size": {
