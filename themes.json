@@ -8926,7 +8926,7 @@
       },
       "font-size": {
         "actions": {
-          "xs": {
+          "s": {
             "value": "{global.font-size.xs}",
             "type": "fontSizes"
           }
