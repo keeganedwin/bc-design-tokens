@@ -8322,7 +8322,7 @@
           },
           "icon-color": {
             "value": "{global.colors.white}",
-            "type": "borderWidth"
+            "type": "color"
           }
         }
       },
