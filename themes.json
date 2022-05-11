@@ -8289,33 +8289,81 @@
             }
           }
         },
-        "spacing": {
-          "actions": {
-          "padding": {
-            "vertical": {
-              "value": "{space.100}",
-              "type": "spacing"
+        "inputs": {
+          "disabled": {
+            "border-color": {
+              "value": "{global.theme.colors.gray.500}",
+              "type": "color"
             },
-            "horizontal": {
-              "value": "{space.200}",
-              "type": "spacing"
+            "background-color": {
+              "value": "{global.theme.colors.gray.500}",
+              "type": "color"
             }
           },
+          "focus": {
+            "border-color": {
+              "value": "{global.theme.colors.primary.500}",
+              "type": "color"
+            }
+          },
+          "checked": {
+              "value": "{global.theme.colors.primary.500}",
+              "type": "color"
+          },
+          "text-color": {
+            "disabled": {
+            "value": "{global.theme.colors.gray.500}",
+            "type": "color"
+            },
+            "default": {
+              "value": "{global.theme.colors.text.default}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "spacing": {
+        "actions": {
+        "padding": {
+          "vertical": {
+            "value": "{space.100}",
+            "type": "spacing"
+        },
+        "horizontal": {
+          "value": "{space.200}",
+          "type": "spacing"
+        }
+      },
+      "space-between": {
+        "value": "{global.theme.item-spacing.xs}",
+        "type": "spacing"
+      }
+        },
+        "inputs": {
           "space-between": {
-            "value": "global.theme.item-spacing.xs",
+            "value": "{global.theme.space.sm}",
             "type": "spacing"
           }
-          }
-        },
-        "border-radius": {
+        }
+      },
+      "border-radius": {
         "actions": {
-            "value": "{global.borderRadius.sm}",
-            "type": "borderRadius"
-          }
+          "value": "{global.borderRadius.sm}",
+          "type": "borderRadius"
+        },
+        "inputs": {
+          "value": "{global.borderRadius.xs}",
+          "type": "color"
         }
       },
       "font-size": {
         "actions": {
+          "s": {
+            "value": "{global.font-size.xs}",
+            "type": "fontSizes"
+          }
+        },
+        "inputs": {
           "s": {
             "value": "{global.font-size.xs}",
             "type": "fontSizes"
@@ -8326,16 +8374,28 @@
         "actions": {
           "value": "{global.font-family.sans}",
           "type": "fontFamilies"
+        },
+        "inputs": {
+          "value": "{global.font-family.sans}",
+          "type": "fontFamilies"
         }
       },
       "font-weight": {
         "actions": {
           "value": "{global.font-weight.medium}",
           "type": "fontWeights"
+        },
+        "inputs": {
+          "value": "{global.font-weight.medium}",
+          "type": "fontWeights"
         }
       },
       "border-width": {
         "actions": {
+          "value": "{border-width.1}",
+          "type": "borderWidth"
+        },
+        "inputs": {
           "value": "{border-width.1}",
           "type": "borderWidth"
         }
