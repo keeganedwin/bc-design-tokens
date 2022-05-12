@@ -8298,6 +8298,10 @@
             "background-color": {
               "value": "{global.theme.colors.gray.500}",
               "type": "color"
+            },
+            "icon-color": {
+              "value": "{global.colors.white}",
+              "type": "color"
             }
           },
           "focus": {
