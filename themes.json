@@ -8119,6 +8119,10 @@
         }
       },
       "font-weight": {
+        "regular": {
+          "value": "Regular",
+          "type": "fontWeights"
+        },
         "medium": {
           "value": "Medium",
           "type": "fontWeights"
