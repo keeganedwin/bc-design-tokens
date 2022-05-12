@@ -8337,8 +8337,10 @@
             }
           },
           "checked": {
+            "checked": {
               "value": "{global.theme.colors.primary.500}",
               "type": "color"
+            }
           },
           "text-color": {
             "text-field": {
