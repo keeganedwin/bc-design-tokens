@@ -8312,14 +8312,14 @@
             "text-color": {
               "value": "{global.theme.colors.text.default}",
               "type": "color"
+            },
+            "label-color": {
+              "value": "{global.theme.colors.gray.500}",
+              "type": "color"
             }
           },
           "disabled": {
             "border-color": {
-              "value": "{global.theme.colors.gray.500}",
-              "type": "color"
-            },
-            "background-color": {
               "value": "{global.theme.colors.gray.500}",
               "type": "color"
             },
@@ -8330,6 +8330,18 @@
             "icon-color": {
               "value": "{global.colors.white}",
               "type": "color"
+            },
+            "checkbox": {
+              "background-color": {
+                "value": "{global.theme.colors.gray.500}",
+                "type": "color"
+              }
+            },
+            "input-field": {
+              "background-color": {
+                "value": "{global.colors.white}",
+                "type": "color"
+              }
             }
           },
           "focus": {
@@ -8349,10 +8361,6 @@
                 "type": "color"
               }
             }
-          },
-          "icon-color": {
-            "value": "{global.colors.white}",
-            "type": "color"
           }
         },
         "feedback": {
