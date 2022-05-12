@@ -8498,8 +8498,14 @@
           "type": "fontWeights"
         },
         "typography": {
-          "value": "{global.font-weight.medium}",
-          "type": "fontWeights"
+          "primary": {
+            "value": "{global.font-weight.medium}",
+            "type": "fontWeights"
+          },
+          "secondary": {
+            "value": "{global.font-weight.regular}",
+            "type": "fontWeights"
+          }
         }
       },
       "border-width": {
