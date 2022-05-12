@@ -8452,20 +8452,20 @@
         "typography": {
           "heading": {
             "xs": {
-              "value": "{global.font-weight.xs}",
-              "type": "fontWeights"
+              "value": "{global.font-size.xs}",
+              "type": "fontSizes"
             }
           },
           "body": {
             "xs": {
-              "value": "{global.font-weight.xs}",
-              "type": "fontWeights"
+              "value": "{global.font-size.xs}",
+              "type": "fontSizes"
             }
           },
           "detail": {
             "xs": {
-              "value": "{global.font-weight.xs}",
-              "type": "fontWeights"
+              "value": "{global.font-size.xs}",
+              "type": "fontSizes"
             }
           }
         }
