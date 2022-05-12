@@ -8308,6 +8308,10 @@
             "border-color": {
               "value": "{global.theme.colors.primary.500}",
               "type": "color"
+            },
+            "background-color": {
+              "value": "{global.colors.white}",
+              "type": "color"
             }
           },
           "checked": {
@@ -8372,7 +8376,7 @@
           }
         },
         "inputs": {
-          "s": {
+          "m": {
             "value": "{global.font-size.xs}",
             "type": "fontSizes"
           }
