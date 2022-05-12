@@ -8347,13 +8347,13 @@
         }
       },
       "space-between": {
-        "value": "{global.theme.item-spacing.xs}",
+        "value": "{global.theme.itemSpacing.xs}",
         "type": "spacing"
       }
         },
         "inputs": {
           "space-between": {
-            "value": "{global.theme.space.sm}",
+            "value": "{global.theme.itemSpacing.sm}",
             "type": "spacing"
           }
         }
