@@ -8290,12 +8290,30 @@
           }
         },
         "inputs": {
+          "default": {
+            "border-color": {
+              "value": "{global.theme.colors.gray.300}",
+              "type": "color"
+            },
+            "background-color": {
+              "value": "{global.colors.white}",
+              "type": "color"
+            },
+            "text-color": {
+              "value": "{global.theme.colors.text.default}",
+              "type": "color"
+            }
+          },
           "disabled": {
             "border-color": {
               "value": "{global.theme.colors.gray.500}",
               "type": "color"
             },
             "background-color": {
+              "value": "{global.theme.colors.gray.500}",
+              "type": "color"
+            },
+            "text-color": {
               "value": "{global.theme.colors.gray.500}",
               "type": "color"
             },
@@ -8319,13 +8337,11 @@
               "type": "color"
           },
           "text-color": {
-            "disabled": {
-            "value": "{global.theme.colors.gray.500}",
-            "type": "color"
-            },
-            "default": {
-              "value": "{global.theme.colors.text.default}",
-              "type": "color"
+            "text-field": {
+              "label": {
+                "value": "{global.theme.colors.gray.300}",
+                "type": "color"
+              }
             }
           },
           "icon-color": {
