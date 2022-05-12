@@ -8481,7 +8481,7 @@
         },
         "typography": {
           "value": "{global.font-weight.sans}",
-          "type": "fontWeights"
+          "type": "fontFamilies"
         }
       },
       "font-weight": {
