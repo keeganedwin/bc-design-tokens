@@ -8480,7 +8480,7 @@
           "type": "fontFamilies"
         },
         "typography": {
-          "value": "{global.font-weight.sans}",
+          "value": "{global.font-family.sans}",
           "type": "fontFamilies"
         }
       },
