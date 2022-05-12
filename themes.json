@@ -8300,8 +8300,14 @@
               "type": "color"
             },
             "background-color": {
-              "value": "{global.colors.white}",
-              "type": "color"
+              "default": {
+                "value": "{global.colors.white}",
+                "type": "color"
+              },
+              "checked": {
+                "value": "{global.theme.colors.primary.500}",
+                "type": "color"
+              }
             },
             "text-color": {
               "value": "{global.theme.colors.text.default}",
@@ -8333,12 +8339,6 @@
             },
             "background-color": {
               "value": "{global.colors.white}",
-              "type": "color"
-            }
-          },
-          "checked": {
-            "checked": {
-              "value": "{global.theme.colors.primary.500}",
               "type": "color"
             }
           },
