@@ -8366,12 +8366,6 @@
             "background-color": {
               "value": "{global.colors.black.100}",
               "type": "color"
-            },
-            "font-size": {
-              "m": {
-                "value": "{global.font-size.xs}",
-                "type": "fontSizes"
-              }
             }
           }
         }
@@ -8418,6 +8412,12 @@
           }
         },
         "inputs": {
+          "m": {
+            "value": "{global.font-size.xs}",
+            "type": "fontSizes"
+          }
+        },
+        "feedback": {
           "m": {
             "value": "{global.font-size.xs}",
             "type": "fontSizes"
