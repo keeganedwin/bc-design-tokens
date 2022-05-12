@@ -8355,16 +8355,16 @@
               "value": "{global.colors.black.100}",
               "type": "color"
             },
-            "text-color": {
-              "value": "{global.colors.white}",
-              "type": "color"
-            },
             "icon-color": {
               "value": "{semantic.neutral.fg}",
               "type": "color"
             },
             "background-color": {
               "value": "{global.colors.black.100}",
+              "type": "color"
+            },
+            "text-color": {
+              "value": "{global.colors.white}",
               "type": "color"
             }
           }
