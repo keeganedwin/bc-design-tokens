@@ -8141,7 +8141,7 @@
             "type": "color"
           },
           "100": {
-            "value": "hsla(0, 0%, 0%, 13)",
+            "value": "#212121",
             "type": "color"
           }
         },
@@ -8352,7 +8352,7 @@
         "feedback": {
           "neutral": {
             "border-color": {
-              "value": "{global.colors.black.50}",
+              "value": "{global.colors.black.100}",
               "type": "color"
             },
             "text-color": {
@@ -8364,7 +8364,7 @@
               "type": "color"
             },
             "background-color": {
-              "value": "{global.colors.black.50}",
+              "value": "{global.colors.black.100}",
               "type": "color"
             }
           }
