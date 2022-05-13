@@ -8295,6 +8295,14 @@
         },
         "inputs": {
           "default": {
+            "border-color": {
+              "value": "{global.theme.colors.primary.500}",
+              "type": "color"
+            },
+            "background-color": {
+              "value": "{global.theme.colors.primary.500}",
+              "type": "color"
+            },
             "text-color": {
               "value": "{global.theme.colors.text.default}",
               "type": "color"
