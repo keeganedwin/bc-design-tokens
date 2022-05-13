@@ -3589,7 +3589,7 @@
         "selected": {
           "default": {
             "icon-color": {
-              "value": "{checkbox.selected.default.background-color}",
+              "value": "{semantic.color.inputs.selected.default.background-color}",
               "type": "color"
             }
           },
@@ -8304,7 +8304,7 @@
               "type": "color"
             },
             "icon-color": {
-              "value": "{global.theme.colors.white}",
+              "value": "{global.theme.colors.background}",
               "type": "color"
             },
             "text-color": {
