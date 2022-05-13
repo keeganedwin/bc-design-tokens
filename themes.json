@@ -8303,6 +8303,10 @@
               "value": "{global.theme.colors.primary.500}",
               "type": "color"
             },
+            "icon-color": {
+              "value": "{global.theme.colors.white}",
+              "type": "color"
+            },
             "text-color": {
               "value": "{global.theme.colors.text.default}",
               "type": "color"
