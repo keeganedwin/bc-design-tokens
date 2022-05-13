@@ -7810,7 +7810,7 @@
         "button": {
           "default": {
             "borderRadius": {
-              "value": 0,
+              "value": "0",
               "type": "borderRadius"
             }
           },
@@ -8080,31 +8080,31 @@
       },
       "space": {
         "xs": {
-          "value": 4,
+          "value": "4",
           "type": "spacing"
         },
         "sm": {
-          "value": 8,
+          "value": "8",
           "type": "spacing"
         },
         "md": {
-          "value": 16,
+          "value": "16",
           "type": "spacing"
         }
       },
       "borderRadius": {
         "xs": {
-          "value": 2,
+          "value": "2",
           "type": "borderRadius"
         },
         "sm": {
-          "value": 4,
+          "value": "4",
           "type": "borderRadius"
         }
       },
       "size": {
         "sm": {
-          "value": 16,
+          "value": "16",
           "type": "borderRadius"
         }
       },
@@ -8331,11 +8331,9 @@
               "value": "{global.colors.white}",
               "type": "color"
             },
-            "checkbox": {
-              "background-color": {
-                "value": "{global.theme.colors.gray.500}",
-                "type": "color"
-              }
+            "background-color": {
+              "value": "{global.theme.colors.gray.500}",
+              "type": "color"
             },
             "input-field": {
               "background-color": {
@@ -8412,20 +8410,20 @@
       },
       "spacing": {
         "actions": {
-        "padding": {
-          "vertical": {
-            "value": "{space.100}",
+          "padding": {
+            "vertical": {
+              "value": "{space.100}",
+              "type": "spacing"
+            },
+            "horizontal": {
+              "value": "{space.200}",
+              "type": "spacing"
+            }
+          },
+          "space-between": {
+            "value": "{global.theme.itemSpacing.xs}",
             "type": "spacing"
-        },
-        "horizontal": {
-          "value": "{space.200}",
-          "type": "spacing"
-        }
-      },
-      "space-between": {
-        "value": "{global.theme.itemSpacing.xs}",
-        "type": "spacing"
-      }
+          }
         },
         "inputs": {
           "space-between": {
@@ -8631,5 +8629,6 @@
         }
       }
     }
-  }
+  },
+  "$themes": []
 }
