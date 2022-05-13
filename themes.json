@@ -8273,7 +8273,7 @@
                 "type": "color"
               },
               "background-color": {
-                "value": "{global.colors.white}",
+                "value": "{global.theme.colors.white}",
                 "type": "color"
               }
             },
@@ -8283,7 +8283,7 @@
                 "type": "color"
               },
               "background-color": {
-                "value": "{global.colors.white}",
+                "value": "{global.theme.colors.white}",
                 "type": "color"
               },
               "text-color": {
