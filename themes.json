@@ -8295,6 +8295,12 @@
         },
         "inputs": {
           "default": {
+            "unselected": {
+              "background-color": {
+                "value": "{global.theme.colors.background}",
+                "type": "color"
+              }
+            },
             "border-color": {
               "value": "{global.theme.colors.primary.500}",
               "type": "color"
