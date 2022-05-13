@@ -8211,11 +8211,11 @@
                 "type": "color"
               },
               "text-color": {
-                "value": "{global.colors.white}",
+                "value": "{global.theme.colors.text.white}",
                 "type": "color"
               },
               "icon-color": {
-                "value": "{global.colors.white}",
+                "value": "{global.theme.colors.text.white}",
                 "type": "color"
               },
               "background-color": {
