@@ -8231,11 +8231,11 @@
                 "type": "color"
               },
               "text-color": {
-                "value": "{global.colors.white}",
+                "value": "{global.theme.colors.white}",
                 "type": "color"
               },
               "icon-color": {
-                "value": "{global.colors.white}",
+                "value": "{global.theme.colors.white}",
                 "type": "color"
               },
               "background-color": {
@@ -8253,7 +8253,7 @@
                 "type": "color"
               },
               "text-color": {
-                "value": "{global.colors.white}",
+                "value": "{global.theme.colors.white}",
                 "type": "color"
               }
             }
