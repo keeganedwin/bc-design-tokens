@@ -3403,7 +3403,7 @@
           },
           "disabled": {
             "background-color": {
-              "value": "{semantic.color.inputs.disabled.background-color}",
+              "value": "{semantic.inputs.background}",
               "type": "color"
             },
             "border-color": {
