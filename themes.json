@@ -2256,22 +2256,22 @@
         }
       },
       "disabled": {
-        "background-color": {
-          "value": "{semantic.color.actions.primary.disabled.background-color}",
-          "type": "color"
-        },
-        "text-color": {
-          "value": "{semantic.color.actions.primary.disabled.text-color}",
-          "type": "color"
-        },
-        "border-color": {
-          "value": "{semantic.color.actions.primary.disabled.background-color}",
-          "type": "color"
-        },
-        "icon-color": {
-          "value": "{semantic.color.actions.disabled.text-color}",
-          "type": "color"
-        }
+          "background-color": {
+            "value": "{semantic.color.actions.primary.disabled.background-color}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{semantic.color.actions.disabled.text-color}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{semantic.color.actions.primary.disabled.background-color}",
+            "type": "color"
+          },
+          "icon-color": {
+            "value": "{semantic.color.actions.disabled.text-color}",
+            "type": "color"
+          }
       },
       "s": {
         "text-size": {
