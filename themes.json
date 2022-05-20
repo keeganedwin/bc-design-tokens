@@ -2257,7 +2257,7 @@
       },
       "disabled": {
         "background-color": {
-          "value": "{semantic.color.actions.disabled.background-color}",
+          "value": "{semantic.color.actions.primary.disabled.background-color}",
           "type": "color"
         },
         "text-color": {
@@ -2265,7 +2265,7 @@
           "type": "color"
         },
         "border-color": {
-          "value": "{semantic.color.actions.disabled.background-color}",
+          "value": "{semantic.color.actions.primary.disabled.background-color}",
           "type": "color"
         },
         "icon-color": {
