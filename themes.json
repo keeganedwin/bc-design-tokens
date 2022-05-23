@@ -8334,42 +8334,42 @@
           },
           "disabled": {
             "border-color": {
-              "value": "{global.theme.colors.gray.500}",
+              "value": "{colors.gray.500}",
               "type": "color"
             },
             "text-color": {
-              "value": "{global.theme.colors.gray.500}",
+              "value": "{colors.gray.500}",
               "type": "color"
             },
             "icon-color": {
-              "value": "{global.colors.white}",
+              "value": "{colors.white}",
               "type": "color"
             },
             "background-color": {
-              "value": "{global.theme.colors.gray.500}",
+              "value": "{colors.gray.500}",
               "type": "color"
             },
             "input-field": {
               "background-color": {
-                "value": "{global.colors.white}",
+                "value": "{colors.white}",
                 "type": "color"
               }
             }
           },
           "focus": {
             "border-color": {
-              "value": "{global.theme.colors.primary.500}",
+              "value": "{colors.primary.500}",
               "type": "color"
             },
             "background-color": {
-              "value": "{global.colors.white}",
+              "value": "{colors.white}",
               "type": "color"
             }
           },
           "text-color": {
             "text-field": {
               "label": {
-                "value": "{global.theme.colors.gray.300}",
+                "value": "{colors.gray.300}",
                 "type": "color"
               }
             }
