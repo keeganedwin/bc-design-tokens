@@ -7825,8 +7825,6 @@
     }
   },
   "ftcore": {
-    "global": {
-      "theme": {
         "button": {
           "default": {
             "borderRadius": {
@@ -7907,10 +7905,64 @@
               "value": "hsla(0, 0%, 100%, 1)",
               "type": "color"
             }
+          },       
+          "black": {
+            "50": {
+              "value": "hsla(0, 0%, 0%, 1)",
+              "type": "color"
+            },
+            "100": {
+              "value": "#212121",
+              "type": "color"
+            }
           },
           "white": {
-            "type": "#FFFFFF",
-            "value": "color"
+            "value": "hsla (0, 0%,100%, 1)",
+            "type": "color"
+          },
+          "blue": {
+            "50": {
+              "value": "hsla(204, 100%, 98%, 1)",
+              "type": "color"
+            },
+            "100": {
+              "value": "hsla(204, 100%, 94%, 1)",
+              "type": "color"
+            },
+            "300": {
+              "value": "hsla(203, 82%, 76%, 1)",
+              "type": "color"
+            },
+            "400": {
+              "value": "hsla(204, 100%, 62%, 1)",
+              "type": "color"
+            },
+            "500": {
+              "value": "hsla(204, 97%, 54%, 1)",
+              "type": "color"
+            }
+          },
+          "arcade": {
+            "50": {
+              "value": "hsla(300, 40%, 96%, 1)",
+              "type": "color"
+            },
+            "100": {
+              "value": "hsla(304, 41%, 92%, 1)",
+              "type": "color"
+            },
+            "300": {
+              "value": "hsla(302, 59%, 80%, 1)",
+              "type": "color"
+            },
+            "400": {
+              "value": "hsla(303, 59%, 70%, 1)",
+              "type": "color"
+            },
+            "500": {
+              "value": "hsla(303, 100%, 54%, 1)",
+              "type": "color"
+            }
           },
           "background": {
             "type": "#FFFFFF",
@@ -8096,130 +8148,68 @@
             "value": "16",
             "type": "spacing"
           }
-        }
-      },
-      "space": {
-        "xs": {
-          "value": "4",
-          "type": "spacing"
         },
-        "sm": {
-          "value": "8",
-          "type": "spacing"
-        },
-        "md": {
-          "value": "16",
-          "type": "spacing"
-        }
-      },
-      "borderRadius": {
-        "xs": {
-          "value": "2",
-          "type": "borderRadius"
-        },
-        "sm": {
-          "value": "4",
-          "type": "borderRadius"
-        }
-      },
-      "size": {
-        "sm": {
-          "value": "16",
-          "type": "borderRadius"
-        }
-      },
-      "font-size": {
-        "xs": {
-          "value": "11px",
-          "type": "fontSizes"
-        },
-        "sm": {
-          "value": "12px",
-          "type": "fontSizes"
-        }
-      },
-      "font-weight": {
-        "regular": {
-          "value": "Regular",
-          "type": "fontWeights"
-        },
-        "medium": {
-          "value": "Medium",
-          "type": "fontWeights"
-        }
-      },
-      "font-family": {
-        "sans": {
-          "value": "Inter",
-          "type": "fontFamilies"
-        },
-        "mono": {
-          "value": "JetBrainsMono, monospace",
-          "type": "fontFamilies"
-        }
-      },
-      "colors": {
-        "black": {
-          "50": {
-            "value": "hsla(0, 0%, 0%, 1)",
-            "type": "color"
+        "space": {
+          "xs": {
+            "value": "4",
+            "type": "spacing"
           },
-          "100": {
-            "value": "#212121",
-            "type": "color"
+          "sm": {
+            "value": "8",
+            "type": "spacing"
+          },
+          "md": {
+            "value": "16",
+            "type": "spacing"
           }
         },
-        "white": {
-          "value": "hsla (0, 0%,100%, 1)",
-          "type": "color"
-        },
-        "blue": {
-          "50": {
-            "value": "hsla(204, 100%, 98%, 1)",
-            "type": "color"
+        "borderRadius": {
+          "xs": {
+            "value": "2",
+            "type": "borderRadius"
           },
-          "100": {
-            "value": "hsla(204, 100%, 94%, 1)",
-            "type": "color"
-          },
-          "300": {
-            "value": "hsla(203, 82%, 76%, 1)",
-            "type": "color"
-          },
-          "400": {
-            "value": "hsla(204, 100%, 62%, 1)",
-            "type": "color"
-          },
-          "500": {
-            "value": "hsla(204, 97%, 54%, 1)",
-            "type": "color"
+          "sm": {
+            "value": "4",
+            "type": "borderRadius"
           }
         },
-        "arcade": {
-          "50": {
-            "value": "hsla(300, 40%, 96%, 1)",
-            "type": "color"
-          },
-          "100": {
-            "value": "hsla(304, 41%, 92%, 1)",
-            "type": "color"
-          },
-          "300": {
-            "value": "hsla(302, 59%, 80%, 1)",
-            "type": "color"
-          },
-          "400": {
-            "value": "hsla(303, 59%, 70%, 1)",
-            "type": "color"
-          },
-          "500": {
-            "value": "hsla(303, 100%, 54%, 1)",
-            "type": "color"
+        "size": {
+          "sm": {
+            "value": "16",
+            "type": "borderRadius"
           }
-        }
-      }
-    }
-  },
+        },
+        "font-size": {
+          "xs": {
+            "value": "11px",
+            "type": "fontSizes"
+          },
+          "sm": {
+            "value": "12px",
+            "type": "fontSizes"
+          }
+        },
+        "font-weight": {
+          "regular": {
+            "value": "Regular",
+            "type": "fontWeights"
+          },
+          "medium": {
+            "value": "Medium",
+            "type": "fontWeights"
+          }
+        },
+        "font-family": {
+          "sans": {
+            "value": "Inter",
+            "type": "fontFamilies"
+          },
+          "mono": {
+            "value": "JetBrainsMono, monospace",
+            "type": "fontFamilies"
+          }
+        } 
+      },
   "FT": {
     "semantic": {
       "color": {
@@ -8675,6 +8665,5 @@
         }
       }
     }
-  },
-  "$themes": []
+  }
 }
