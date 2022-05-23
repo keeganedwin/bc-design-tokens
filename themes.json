@@ -8378,7 +8378,7 @@
         "feedback": {
           "neutral": {
             "border-color": {
-              "value": "{black.100}",
+              "value": "{colors.black.100}",
               "type": "color"
             },
             "icon-color": {
@@ -8386,11 +8386,11 @@
               "type": "color"
             },
             "background-color": {
-              "value": "{black.100}",
+              "value": "{colors.black.100}",
               "type": "color"
             },
             "text-color": {
-              "value": "{white}",
+              "value": "{colors.white}",
               "type": "color"
             }
           }
