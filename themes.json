@@ -8255,15 +8255,15 @@
             },
             "disabled": {
               "border-color": {
-                "value": "{global.theme.colors.gray.500}",
+                "value": "{colors.gray.500}",
                 "type": "color"
               },
               "background-color": {
-                "value": "{global.theme.colors.gray.500}",
+                "value": "{colors.gray.500}",
                 "type": "color"
               },
               "text-color": {
-                "value": "{global.colors.white}",
+                "value": "{colors.white}",
                 "type": "color"
               }
             }
