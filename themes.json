@@ -8297,7 +8297,11 @@
                 "type": "color"
               },
               "text-color": {
-                "value": "{colors.gray.500}",
+                "value": "{colors.gray.300}",
+                "type": "color"
+              },
+              "icon-color": {
+                "value": "{colors.gray.300}",
                 "type": "color"
               }
             }
