@@ -8647,11 +8647,11 @@
       "selected": {
         "default": {
           "border-color": {
-            "value": "{global.theme.colors.primary.500}",
+            "value": "{colors.primary.500}",
             "type": "color"
           },
           "background-color": {
-            "value": "{global.theme.colors.primary.500}",
+            "value": "{colors.primary.500}",
             "type": "color"
           }
         }
@@ -8659,7 +8659,7 @@
       "checkmark": {
         "selected": {
           "icon-color": {
-            "value": "{global.theme.colors.background}",
+            "value": "{colors.background}",
             "type": "color"
           }
         }
