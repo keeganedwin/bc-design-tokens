@@ -8297,7 +8297,7 @@
                 "type": "color"
               },
               "text-color": {
-                "value": "{colors.gray.300}",
+                "value": "{colors.gray.500}",
                 "type": "color"
               },
               "icon-color": {
