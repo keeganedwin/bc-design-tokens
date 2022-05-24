@@ -5418,15 +5418,15 @@
           },
           "disabled": {
             "background-color": {
-              "value": "{semantic.fg.disabled}",
+              "value": "{colors.white}",
               "type": "color"
             },
             "text-color": {
-              "value": "{semantic.fg.on-disabled}",
+              "value": "{colors.gray.500}",
               "type": "color"
             },
             "border-color": {
-              "value": "{semantic.fg.disabled}",
+              "value": "{colors.gray.300}",
               "type": "color"
             }
           }
