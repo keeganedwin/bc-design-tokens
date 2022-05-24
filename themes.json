@@ -7892,23 +7892,9 @@
       }
     },
     "colors": {
-      "interaction": {
-        "default": {
-          "value": "hsla(303, 100%, 54%, 1)",
-          "type": "color"
-        },
-        "disabled": {
-          "value": "hsla(0, 0%, 62%, 1)",
-          "type": "color"
-        },
-        "contrast": {
-          "value": "hsla(0, 0%, 100%, 1)",
-          "type": "color"
-        }
-      },
       "black": {
         "50": {
-          "value": "hsla(0, 0%, 0%, 1)",
+          "value": "#000000",
           "type": "color"
         },
         "100": {
@@ -7917,57 +7903,8 @@
         }
       },
       "white": {
-        "value": "hsla (0, 0%,100%, 1)",
+        "value": "#FFFFFF",
         "type": "color"
-      },
-      "blue": {
-        "50": {
-          "value": "hsla(204, 100%, 98%, 1)",
-          "type": "color"
-        },
-        "100": {
-          "value": "hsla(204, 100%, 94%, 1)",
-          "type": "color"
-        },
-        "300": {
-          "value": "hsla(203, 82%, 76%, 1)",
-          "type": "color"
-        },
-        "400": {
-          "value": "hsla(204, 100%, 62%, 1)",
-          "type": "color"
-        },
-        "500": {
-          "value": "hsla(204, 97%, 54%, 1)",
-          "type": "color"
-        }
-      },
-      "arcade": {
-        "50": {
-          "value": "hsla(300, 40%, 96%, 1)",
-          "type": "color",
-          "description": "To do: depricate"
-        },
-        "100": {
-          "value": "hsla(304, 41%, 92%, 1)",
-          "type": "color"
-        },
-        "300": {
-          "value": "hsla(302, 59%, 80%, 1)",
-          "type": "color"
-        },
-        "400": {
-          "value": "hsla(303, 59%, 70%, 1)",
-          "type": "color"
-        },
-        "500": {
-          "value": "hsla(303, 100%, 54%, 1)",
-          "type": "color"
-        }
-      },
-      "background": {
-        "type": "#FFFFFF",
-        "value": "color"
       },
       "red": {
         "100": {
@@ -8050,90 +7987,6 @@
       "shadow": {
         "value": "hsla(206,22%,7%,.15)",
         "type": "color"
-      },
-      "text": {
-        "default": {
-          "value": "hsla(0, 0%, 13%, 1)",
-          "type": "color"
-        },
-        "muted": {
-          "value": "hsla(0, 0%, 38%, 1)",
-          "type": "color"
-        }
-      },
-      "destructive": {
-        "default": {
-          "value": "hsla(12, 74%, 54%, 1)",
-          "type": "color"
-        },
-        "contrast": {
-          "value": "hsla(0, 0%, 100%, 1)",
-          "type": "color"
-        }
-      },
-      "button": {
-        "secondary": {
-          "border": {
-            "value": "hsla(0, 0%, 88%, 1)",
-            "type": "color"
-          },
-          "text": {
-            "value": "hsla(0, 0%, 13%, 1)",
-            "type": "color"
-          },
-          "background": {
-            "hover": {
-              "value": "hsla(0, 0%, 93%, 1)",
-              "type": "color"
-            },
-            "default": {
-              "value": "hsla(0, 0%, 100%, 1)",
-              "type": "color"
-            }
-          }
-        }
-      },
-      "notification": {
-        "value": "hsla(303, 100%, 54%, 1)",
-        "type": "color"
-      },
-      "tokenbutton": {
-        "background": {
-          "default": {
-            "value": "hsla(0, 0%, 96%, 1)",
-            "type": "color"
-          },
-          "hover": {
-            "value": "hsla(0, 0%, 98%, 1)",
-            "type": "color"
-          },
-          "active": {
-            "value": "hsla(304, 41%, 92%, 1)",
-            "type": "color"
-          }
-        }
-      },
-      "brand": {
-        "50": {
-          "value": "hsla(300, 40%,96%, 1)",
-          "type": "color"
-        },
-        "100": {
-          "value": "hsla(304, 41%, 92%, 1)",
-          "type": "color"
-        },
-        "300": {
-          "value": "hsla(302, 59%, 80%, 1)",
-          "type": "color"
-        },
-        "400": {
-          "value": "hsla(303, 59%, 70%, 1)",
-          "type": "color"
-        },
-        "500": {
-          "value": "hsla(303, 100%, 54%, 1)",
-          "type": "color"
-        }
       }
     },
     "itemSpacing": {
