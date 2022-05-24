@@ -2273,24 +2273,6 @@
             "value": "{semantic.color.actions.disabled.text-color}",
             "type": "color"
           }
-        },
-        "secondary": {
-          "background-color": {
-            "value": "{semantic.color.actions.secondary.disabled.background-color}",
-            "type": "color"
-          },
-          "text-color": {
-            "value": "{colors.gray.300}",
-            "type": "color"
-          },
-          "border-color": {
-            "value": "{colors.gray.300}",
-            "type": "color"
-          },
-          "icon-color": {
-            "value": "{colors.gray.300}",
-            "type": "color"
-          }
         }
       },
       "s": {
