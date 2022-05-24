@@ -8190,18 +8190,18 @@
         "typography": {
           "heading": {
             "default": {
-              "value": "{colors.text.default}",
+              "value": "{colors.black.100}",
               "type": "color"
             },
             "detail": {
               "default": {
-                "value": "{colors.text.default}",
+                "value": "{colors.black.100}",
                 "type": "color"
               }
             },
             "body": {
               "default": {
-                "value": "{colors.text.default}",
+                "value": "{colors.black.100}",
                 "type": "color"
               },
               "secondary": {
