@@ -2256,16 +2256,16 @@
         }
       },
       "disabled": {
+        "border-color": {
+          "value": "{semantic.color.actions.disabled.border-color}",
+          "type": "color"
+        },
         "background-color": {
           "value": "{semantic.color.actions.disabled.background-color}",
           "type": "color"
         },
         "text-color": {
           "value": "{semantic.color.actions.disabled.text-color}",
-          "type": "color"
-        },
-        "border-color": {
-          "value": "{semantic.color.actions.disabled.background-color}",
           "type": "color"
         },
         "icon-color": {
