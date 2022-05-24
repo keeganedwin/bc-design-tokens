@@ -7945,7 +7945,8 @@
       "arcade": {
         "50": {
           "value": "hsla(300, 40%, 96%, 1)",
-          "type": "color"
+          "type": "color",
+          "description": "To do: depricate"
         },
         "100": {
           "value": "hsla(304, 41%, 92%, 1)",
