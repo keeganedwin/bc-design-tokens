@@ -8043,40 +8043,6 @@
             },
             "disabled": {
               "border-color": {
-                "value": "{colors.gray.500}",
-                "type": "color"
-              },
-              "background-color": {
-                "value": "{colors.gray.500}",
-                "type": "color"
-              },
-              "text-color": {
-                "value": "{colors.white}",
-                "type": "color"
-              }
-            }
-          },
-          "secondary": {
-            "default": {
-              "border-color": {
-                "value": "{colors.gray.300}",
-                "type": "color"
-              },
-              "text-color": {
-                "value": "{colors.black.100}",
-                "type": "color"
-              },
-              "icon-color": {
-                "value": "{colors.black.100}",
-                "type": "color"
-              },
-              "background-color": {
-                "value": "{colors.white}",
-                "type": "color"
-              }
-            },
-            "disabled": {
-              "border-color": {
                 "value": "{colors.gray.300}",
                 "type": "color"
               },
@@ -8086,10 +8052,6 @@
               },
               "text-color": {
                 "value": "{colors.gray.500}",
-                "type": "color"
-              },
-              "icon-color": {
-                "value": "{colors.gray.300}",
                 "type": "color"
               }
             }
