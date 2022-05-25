@@ -8416,28 +8416,6 @@
           }
         }
       }
-    },
-    "checkbox": {
-      "selected": {
-        "default": {
-          "border-color": {
-            "value": "{colors.primary.500}",
-            "type": "color"
-          },
-          "background-color": {
-            "value": "{colors.primary.500}",
-            "type": "color"
-          }
-        }
-      },
-      "checkmark": {
-        "selected": {
-          "icon-color": {
-            "value": "{colors.background}",
-            "type": "color"
-          }
-        }
-      }
     }
   },
   "$themes": []
