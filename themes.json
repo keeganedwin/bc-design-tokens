@@ -8315,7 +8315,7 @@
             "type": "sizing"
           },
           "medium": {
-            "value": "{global.size.sm}",
+            "value": "{size.sm}",
             "type": "sizing"
           },
           "large": {
