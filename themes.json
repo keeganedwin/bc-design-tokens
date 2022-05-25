@@ -8088,10 +8088,6 @@
                 "value": "{colors.primary.500}",
                 "type": "color"
               },
-              "background-color": {
-                "value": "{colors.primary.500}",
-                "type": "color"
-              },
               "text-color": {
                 "value": "{colors.black.100}",
                 "type": "color"
