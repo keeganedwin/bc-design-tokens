@@ -3516,11 +3516,11 @@
         },
         "disabled": {
           "background-color": {
-            "value": "{semantic.color.inputs.disabled.background-color}",
+            "value": "{colors.white}",
             "type": "color"
           },
           "border-color": {
-            "value": "{semantic.color.inputs.disabled.border-color}",
+            "value": "{colors.gray.500}",
             "type": "color"
           }
         },
@@ -3558,11 +3558,11 @@
         },
         "disabled": {
           "background-color": {
-            "value": "{semantic.color.inputs.disabled.background-color}",
+            "value": "{colors.gray.500}",
             "type": "color"
           },
           "border-color": {
-            "value": "{semantic.color.inputs.disabled.background-color}",
+            "value": "{colors.gray.500}",
             "type": "color"
           }
         },
@@ -3601,7 +3601,7 @@
           },
           "disabled": {
             "icon-color": {
-              "value": "{semantic.color.inputs.disabled.icon-color}",
+              "value": "{colors.white}",
               "type": "color"
             }
           },
@@ -5825,7 +5825,7 @@
         },
         "focus": {
           "border-color": {
-            "value": "{semantic.cta.subtle}",
+            "value": "{colors.primary.500}",
             "type": "color"
           }
         }
@@ -6530,7 +6530,7 @@
           "type": "borderWidth"
         },
         "focus": {
-          "value": "{border-width.3}",
+          "value": "{border-width.1}",
           "type": "borderWidth"
         }
       },
@@ -8060,7 +8060,7 @@
               },
               "background-color": {
                 "value": "{colors.white}",
-                "type": "color" 
+                "type": "color"
               },
               "font-color": {
                 "value": "{colors.black.100}",
@@ -8090,7 +8090,7 @@
               },
               "background-color": {
                 "value": "{colors.white}",
-                "type": "color" 
+                "type": "color"
               },
               "font-color": {
                 "value": "{colors.black.100}",
