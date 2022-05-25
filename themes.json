@@ -8038,32 +8038,72 @@
           }
         },
         "inputs": {
-          "default": {
-            "unselected": {
+          "unselected": {
+            "disabled": {
+              "border-color": {
+                "value": "{colors.gray.500}",
+                "type": "color"
+              },
               "background-color": {
-                "value": "{colors.background}",
+                "value": "{colors.white}",
+                "type": "color"
+              },
+              "font-color": {
+                "value": "{colors.gray.500}",
                 "type": "color"
               }
             },
-            "border-color": {
-              "value": "{colors.primary.500}",
-              "type": "color"
+            "focus": {
+              "border-color": {
+                "value": "{colors.primary.500}",
+                "type": "color"
+              },
+              "background-color": {
+                "value": "{colors.white}",
+                "type": "color" 
+              },
+              "font-color": {
+                "value": "{colors.black.100}",
+                "type": "color"
+              }
+            }
+          },
+          "selected": {
+            "disabled": {
+              "border-color": {
+                "value": "{colors.gray.500}",
+                "type": "color"
+              },
+              "background-color": {
+                "value": "{colors.white}",
+                "type": "color"
+              },
+              "font-color": {
+                "value": "{colors.gray.500}",
+                "type": "color"
+              }
             },
-            "background-color": {
-              "value": "{colors.primary.500}",
-              "type": "color"
-            },
-            "icon-color": {
-              "value": "{colors.white}",
-              "type": "color"
-            },
-            "text-color": {
-              "value": "{colors.black.100}",
-              "type": "color"
-            },
-            "label-color": {
-              "value": "{colors.gray.500}",
-              "type": "color"
+            "default": {
+              "border-color": {
+                "value": "{colors.primary.500}",
+                "type": "color"
+              },
+              "background-color": {
+                "value": "{colors.white}",
+                "type": "color" 
+              },
+              "font-color": {
+                "value": "{colors.black.100}",
+                "type": "color"
+              }
+            }
+          },
+          "checkmark": {
+            "selected": {
+              "icon-color": {
+                "value": "{colors.white}",
+                "type": "color"
+              }
             }
           },
           "disabled": {
