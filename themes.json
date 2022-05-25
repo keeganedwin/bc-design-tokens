@@ -8092,7 +8092,7 @@
                 "value": "{colors.white}",
                 "type": "color"
               },
-              "font-color": {
+              "text-color": {
                 "value": "{colors.black.100}",
                 "type": "color"
               }
