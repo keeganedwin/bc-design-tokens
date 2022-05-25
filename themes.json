@@ -8096,13 +8096,13 @@
                 "value": "{colors.black.100}",
                 "type": "color"
               }
-            }
-          },
-          "checkmark": {
-            "selected": {
-              "icon-color": {
-                "value": "{colors.white}",
-                "type": "color"
+            },
+            "checkmark": {
+              "selected": {
+                "icon-color": {
+                  "value": "{colors.white}",
+                  "type": "color"
+                }
               }
             }
           },
