@@ -8081,6 +8081,12 @@
               "font-color": {
                 "value": "{colors.black.100}",
                 "type": "color"
+              },
+              "checkmark": {
+                "icon-color": {
+                  "value": "{colors.gray.500}",
+                  "type": "color"
+                }
               }
             },
             "default": {
@@ -8091,10 +8097,8 @@
               "text-color": {
                 "value": "{colors.black.100}",
                 "type": "color"
-              }
-            },
-            "checkmark": {
-              "selected": {
+              },
+              "checkmark": {
                 "icon-color": {
                   "value": "{colors.white}",
                   "type": "color"
