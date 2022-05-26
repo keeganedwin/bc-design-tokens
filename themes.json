@@ -8111,8 +8111,25 @@
                 }
               }
             }
-          }
-        },
+          },
+          "text-field": {
+            "default": {
+              "border-color": {
+                "value": "{colors.gray.300}",
+                "type": "color"
+              },
+              "background-color": {
+                "value": "{colors.white}",
+                "type": "color"
+              },
+              "field-text": {
+                "font-color": {
+                  "value": "{colors.gray.300}",
+                  "type": "color"
+                }
+              }
+            }
+          },
         "feedback": {
           "neutral": {
             "border-color": {
@@ -8383,4 +8400,4 @@
     }
   },
   "$themes": []
-}
+}}
