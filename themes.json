@@ -3471,6 +3471,12 @@
             "value": "{semantic.color.inputs.error.text-color}",
             "type": "color"
           }
+        },
+        "disabled": {
+          "font-color": {
+            "value": "{colors.gray.500}",
+            "type": "color"
+          }
         }
       },
       "width": {
