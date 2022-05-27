@@ -5518,7 +5518,7 @@
               "type": "color"
             },
             "text-color": {
-              "value": "{semantic.fg.on-disabled}",
+              "value": "{colors.gray.500}",
               "type": "color"
             },
             "icon-color": {
@@ -5526,7 +5526,7 @@
               "type": "color"
             },
             "border-color": {
-              "value": "{semantic.inputs.border.disabled}",
+              "value": "{colors.gray.500}",
               "type": "color"
             }
           },
