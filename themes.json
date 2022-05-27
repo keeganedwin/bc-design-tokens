@@ -8112,7 +8112,7 @@
               }
             }
           },
-          "text-field": {
+          "input-field": {
             "default": {
               "border-color": {
                 "value": "{colors.gray.300}",
@@ -8127,6 +8127,20 @@
                   "value": "{colors.gray.300}",
                   "type": "color"
                 }
+              }
+            },
+            "disabled": {
+              "border-color": {
+                "value": "{colors.gray.500}",
+                "type": "color"
+              },
+              "background-color": {
+                "value": "{colors.white}",
+                "type": "color"
+              },
+              "font-color": {
+                "value": "{colors.gray.500}",
+                "type": "color"
               }
             }
           },
