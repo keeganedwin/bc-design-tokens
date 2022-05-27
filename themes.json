@@ -8118,11 +8118,9 @@
                 "value": "{colors.white}",
                 "type": "color"
               },
-              "field-text": {
-                "font-color": {
-                  "value": "{colors.gray.300}",
-                  "type": "color"
-                }
+              "font-color": {
+                "value": "{colors.gray.300}",
+                "type": "color"
               }
             },
             "disabled": {
