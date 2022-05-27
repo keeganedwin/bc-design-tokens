@@ -8207,6 +8207,14 @@
           "space-between": {
             "value": "{itemSpacing.sm}",
             "type": "spacing"
+          },
+          "padding-left": {
+            "value": "{space.sm}",
+            "type": "spacing"
+          },
+          "padding-right": {
+            "value": "{space.sm}",
+            "type": "spacing"
           }
         }
       },
