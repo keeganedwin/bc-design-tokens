@@ -4525,7 +4525,7 @@
           "type": "sizing"
         },
         "font-size": {
-          "value": "{semantic.font-size.inputs.s}",
+          "value": "{font-size.xs}",
           "type": "fontSizes"
         },
         "padding-left": {
