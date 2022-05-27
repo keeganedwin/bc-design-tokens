@@ -8088,11 +8088,9 @@
                 "value": "{colors.black.100}",
                 "type": "color"
               },
-              "checkmark": {
-                "icon-color": {
-                  "value": "{colors.gray.500}",
-                  "type": "color"
-                }
+              "icon-color": {
+                "value": "{colors.gray.500}",
+                "type": "color"
               }
             },
             "default": {
@@ -8104,11 +8102,9 @@
                 "value": "{colors.black.100}",
                 "type": "color"
               },
-              "checkmark": {
-                "icon-color": {
-                  "value": "{colors.white}",
-                  "type": "color"
-                }
+              "icon-color": {
+                "value": "{colors.white}",
+                "type": "color"
               }
             }
           },
