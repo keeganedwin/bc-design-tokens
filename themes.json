@@ -8140,23 +8140,21 @@
           }
         },
         "feedback": {
-          "neutral": {
-            "border-color": {
-              "value": "{colors.black.100}",
-              "type": "color"
-            },
-            "icon-color": {
-              "value": "{semantic.neutral.fg}",
-              "type": "color"
-            },
-            "background-color": {
-              "value": "{colors.black.100}",
-              "type": "color"
-            },
-            "text-color": {
-              "value": "{colors.white}",
-              "type": "color"
-            }
+          "border-color": {
+            "value": "{colors.black.100}",
+            "type": "color"
+          },
+          "icon-color": {
+            "value": "{semantic.neutral.fg}",
+            "type": "color"
+          },
+          "background-color": {
+            "value": "{colors.black.100}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{colors.white}",
+            "type": "color"
           }
         },
         "typography": {
