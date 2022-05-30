@@ -8162,23 +8162,23 @@
         "typography": {
           "heading": {
             "default": {
-              "value": "{colors.black.100}",
-              "type": "color"
-            },
-            "detail": {
-              "default": {
+              "font-color": {
                 "value": "{colors.black.100}",
                 "type": "color"
               }
             },
+            "detail": {
+              "default": {
+                "font-color": {
+                  "value": "{colors.black.100}",
+                  "type": "color"
+                }
+              }
+            },
             "body": {
               "default": {
-                "value": "{colors.black.100}",
-                "type": "color"
-              },
-              "secondary": {
-                "default": {
-                  "value": "{colors.gray.700}",
+                "font-color": {
+                  "value": "{colors.black.100}",
                   "type": "color"
                 }
               }
