@@ -8137,49 +8137,49 @@
                 "type": "color"
               }
             }
-          },
-          "feedback": {
-            "neutral": {
-              "border-color": {
+          }
+        },
+        "feedback": {
+          "neutral": {
+            "border-color": {
+              "value": "{colors.black.100}",
+              "type": "color"
+            },
+            "icon-color": {
+              "value": "{semantic.neutral.fg}",
+              "type": "color"
+            },
+            "background-color": {
+              "value": "{colors.black.100}",
+              "type": "color"
+            },
+            "text-color": {
+              "value": "{colors.white}",
+              "type": "color"
+            }
+          }
+        },
+        "typography": {
+          "heading": {
+            "default": {
+              "value": "{colors.black.100}",
+              "type": "color"
+            },
+            "detail": {
+              "default": {
                 "value": "{colors.black.100}",
-                "type": "color"
-              },
-              "icon-color": {
-                "value": "{semantic.neutral.fg}",
-                "type": "color"
-              },
-              "background-color": {
-                "value": "{colors.black.100}",
-                "type": "color"
-              },
-              "text-color": {
-                "value": "{colors.white}",
                 "type": "color"
               }
-            }
-          },
-          "typography": {
-            "heading": {
+            },
+            "body": {
               "default": {
                 "value": "{colors.black.100}",
                 "type": "color"
               },
-              "detail": {
+              "secondary": {
                 "default": {
-                  "value": "{colors.black.100}",
+                  "value": "{colors.gray.700}",
                   "type": "color"
-                }
-              },
-              "body": {
-                "default": {
-                  "value": "{colors.black.100}",
-                  "type": "color"
-                },
-                "secondary": {
-                  "default": {
-                    "value": "{colors.gray.700}",
-                    "type": "color"
-                  }
                 }
               }
             }
