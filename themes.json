@@ -8166,21 +8166,21 @@
                 "value": "{colors.black.100}",
                 "type": "color"
               }
-            },
-            "detail": {
-              "default": {
-                "font-color": {
-                  "value": "{colors.black.100}",
-                  "type": "color"
-                }
+            }
+          },
+          "detail": {
+            "default": {
+              "font-color": {
+                "value": "{colors.black.100}",
+                "type": "color"
               }
-            },
-            "body": {
-              "default": {
-                "font-color": {
-                  "value": "{colors.black.100}",
-                  "type": "color"
-                }
+            }
+          },
+          "body": {
+            "default": {
+              "font-color": {
+                "value": "{colors.black.100}",
+                "type": "color"
               }
             }
           }
