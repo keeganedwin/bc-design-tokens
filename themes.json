@@ -2933,7 +2933,7 @@
       },
       "default": {
         "text-color": {
-          "value": "{semantic.color.inputs.default.text-color}",
+          "value": "{text-field.field-text.filled.text-color}",
           "type": "color"
         }
       }
