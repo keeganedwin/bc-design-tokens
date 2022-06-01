@@ -8045,6 +8045,26 @@
         },
         "inputs": {
           "unselected": {
+            "default": {
+              "border-color": {
+                "value": "{colors.primary.500}",
+                "type": "color"
+              },
+              "background-color": {
+                "value": "{colors.white}",
+                "type": "color"
+              },
+              "track": {
+                "border-color": {
+                  "value": "{colors.primary.500}",
+                  "type": "color"
+                },
+                "background-color": {
+                  "value": "{colors.white}",
+                  "type": "color"
+                }
+              }
+            },
             "disabled": {
               "border-color": {
                 "value": "{colors.gray.500}",
