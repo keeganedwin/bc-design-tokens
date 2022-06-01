@@ -3595,7 +3595,7 @@
         "selected": {
           "default": {
             "icon-color": {
-              "value": "{semantic.color.inputs.selected.default.background-color}",
+              "value": "{colors.white}",
               "type": "color"
             }
           },
