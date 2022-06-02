@@ -3847,6 +3847,10 @@
             "border-color": {
               "value": "{checkbox.selected.default.border-color}",
               "type": "color"
+            },
+            "background-color": {
+              "value": "{semantic.inputs.background}",
+              "type": "color"
             }
           },
           "hover": {
