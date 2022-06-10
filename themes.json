@@ -2895,7 +2895,7 @@
     "field-label": {
       "s": {
         "text-size": {
-          "value": "{semantic.font-size.inputs.s}",
+          "value": "{font-size.xs}",
           "type": "fontSizes"
         }
       },
@@ -2922,7 +2922,7 @@
         "type": "fontFamilies"
       },
       "font-weight": {
-        "value": "{semantic.font-weight.inputs}",
+        "value": "{font-weight.medium}",
         "type": "fontWeights"
       },
       "disabled": {
