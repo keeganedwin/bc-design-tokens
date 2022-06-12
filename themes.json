@@ -5518,7 +5518,7 @@
           },
           "disabled": {
             "background-color": {
-              "value": "{colors.white}",
+              "value": "{semantic.fg.disabled}",
               "type": "color"
             },
             "text-color": {
