@@ -5139,7 +5139,7 @@
                 "type": "color"
               },
               "text-color": {
-                "value": "{semantic.error.fg}",
+                "value": "{colors.red.500}",
                 "type": "color"
               },
               "quiet-text-color": {
@@ -5687,7 +5687,7 @@
         },
         "typography": {
           "default": {
-            "value": "{colors.black.100}",
+            "value": "{color.gray.700}",
             "type": "color"
           },
           "on-background": {
