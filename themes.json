@@ -4658,7 +4658,7 @@
             "type": "color"
           },
           "border-color": {
-            "value": "{semantic.color.inputs.default.border-color}",
+            "value": "{colors.gray.300}",
             "type": "color"
           }
         },
@@ -4684,11 +4684,11 @@
         },
         "disabled": {
           "background-color": {
-            "value": "{semantic.color.inputs.default.background-color}",
+            "value": "{colors.gray.300}",
             "type": "color"
           },
           "border-color": {
-            "value": "{semantic.color.inputs.default.border-color}",
+            "value": "{colors.gray.500}",
             "type": "color"
           }
         },
@@ -5444,7 +5444,7 @@
         "inputs": {
           "default": {
             "border-color": {
-              "value": "{semantic.inputs.border.default}",
+              "value": "{colors.gray.300}",
               "type": "color"
             },
             "text-color": {
@@ -5456,7 +5456,7 @@
               "type": "color"
             },
             "background-color": {
-              "value": "{semantic.inputs.background}",
+              "value": "{colors.white}",
               "type": "color"
             }
           },
