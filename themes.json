@@ -4658,7 +4658,7 @@
             "type": "color"
           },
           "border-color": {
-            "value": "{colors.gray.300}",
+            "value": "{semantic.color.inputs.default.border-color}",
             "type": "color"
           }
         },
@@ -4684,11 +4684,11 @@
         },
         "disabled": {
           "background-color": {
-            "value": "{colors.gray.300}",
+            "value": "{semantic.color.inputs.default.background-color}",
             "type": "color"
           },
           "border-color": {
-            "value": "{colors.gray.500}",
+            "value": "{semantic.color.inputs.default.border-color}",
             "type": "color"
           }
         },
@@ -5456,7 +5456,7 @@
               "type": "color"
             },
             "background-color": {
-              "value": "{colors.gray.300}",
+              "value": "{semantic.inputs.background}",
               "type": "color"
             }
           },
