@@ -4638,7 +4638,7 @@
         },
         "disabled": {
           "text-color": {
-            "value": "{colors.gray.500}",
+            "value": "{semantic.color.inputs.disabled.text-color}",
             "type": "color"
           }
         }
