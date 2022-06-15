@@ -5323,7 +5323,7 @@
           "secondary": {
             "default": {
               "border-color": {
-                "value": "{semantic.secondary.default}",
+                "value": "{colors.gray.300}",
                 "type": "color"
               },
               "quiet-border-color": {
@@ -5331,7 +5331,7 @@
                 "type": "color"
               },
               "text-color": {
-                "value": "{semantic.secondary.default}",
+                "value": "{colors.black.50}",
                 "type": "color"
               },
               "quiet-text-color": {
@@ -5339,7 +5339,7 @@
                 "type": "color"
               },
               "background-color": {
-                "value": "{color.neutrals.transparent}",
+                "value": "{colors.white}",
                 "type": "color"
               },
               "quiet-background-color": {
