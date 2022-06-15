@@ -1982,7 +1982,7 @@
       "secondary": {
         "default": {
           "background-color": {
-            "value": "{colors.white}",
+            "value": "{semantic.color.actions.secondary.default.background-color}",
             "type": "color"
           },
           "quiet-background-color": {
@@ -1990,7 +1990,7 @@
             "type": "color"
           },
           "text-color": {
-            "value": "{colors.black.100}",
+            "value": "{semantic.color.actions.secondary.default.text-color}",
             "type": "color"
           },
           "quiet-text-color": {
@@ -1998,7 +1998,7 @@
             "type": "color"
           },
           "border-color": {
-            "value": "{colors.gray.300}",
+            "value": "{semantic.color.actions.secondary.default.border-color}",
             "type": "color"
           },
           "quiet-border-color": {
@@ -2006,7 +2006,7 @@
             "type": "color"
           },
           "icon-color": {
-            "value": "{colors.black.100}",
+            "value": "{semantic.color.actions.secondary.default.text-color}",
             "type": "color"
           },
           "quiet-icon-color": {
