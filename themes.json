@@ -5687,7 +5687,7 @@
         },
         "typography": {
           "default": {
-            "value": "{color.gray.700}",
+            "value": "{colors.black.100}",
             "type": "color"
           },
           "on-background": {
