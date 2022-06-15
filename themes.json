@@ -4632,7 +4632,7 @@
         },
         "placeholder": {
           "text-color": {
-            "value": "{colors.gray.600}",
+            "value": "{semantic.color.inputs.default.text-color}",
             "type": "color"
           }
         },
