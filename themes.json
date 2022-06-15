@@ -5357,7 +5357,7 @@
                 "type": "color"
               },
               "text-color": {
-                "value": "{semantic.secondary.default}",
+                "value": "{colors.black.50}",
                 "type": "color"
               },
               "quiet-text-color": {
@@ -5365,7 +5365,7 @@
                 "type": "color"
               },
               "background-color": {
-                "value": "{semantic.secondary.muted}",
+                "value": "{colors.gray.200}",
                 "type": "color"
               },
               "quiet-background-color": {
