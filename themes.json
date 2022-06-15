@@ -5456,7 +5456,7 @@
               "type": "color"
             },
             "background-color": {
-              "value": "{semantic.inputs.background}",
+              "value": "{colors.gray.300}",
               "type": "color"
             }
           },
