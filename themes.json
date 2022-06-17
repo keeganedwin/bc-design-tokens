@@ -4632,13 +4632,13 @@
         },
         "placeholder": {
           "text-color": {
-            "value": "{colors.gray.600}",
+            "value": "{semantic.color.inputs.default.text-color}",
             "type": "color"
           }
         },
         "disabled": {
           "text-color": {
-            "value": "{colors.gray.500}",
+            "value": "{semantic.color.inputs.disabled.text-color}",
             "type": "color"
           }
         }
@@ -4658,7 +4658,7 @@
             "type": "color"
           },
           "border-color": {
-            "value": "{colors.gray.300}",
+            "value": "{semantic.color.inputs.default.border-color}",
             "type": "color"
           }
         },
@@ -4684,11 +4684,11 @@
         },
         "disabled": {
           "background-color": {
-            "value": "{colors.gray.300}",
+            "value": "{semantic.color.inputs.disabled.background-color}",
             "type": "color"
           },
           "border-color": {
-            "value": "{colors.gray.500}",
+            "value": "{semantic.color.inputs.disabled.border-color}",
             "type": "color"
           }
         },
@@ -5139,7 +5139,7 @@
                 "type": "color"
               },
               "text-color": {
-                "value": "{semantic.error.fg}",
+                "value": "{colors.red.500}",
                 "type": "color"
               },
               "quiet-text-color": {
